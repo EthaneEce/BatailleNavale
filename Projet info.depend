@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1512924931 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info\main.c
+	"biblio.h"
+
+1512924198 c:\users\ethane\desktop\ecole\informatique\projet\projet info\biblio.h
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1512913695 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info\fonctions.c
+	"biblio.h"
+
+1512924659 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info\tableau.c
+	"biblio.h"
+
+1512925199 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info\tire.c
+	"biblio.h"
+
+1512903061 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info\menup.c
+	"biblio.h"
+
+1512903061 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info\menu.c
+	"biblio.h"
+
+1512913359 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info\deplacement.c
+	"biblio.h"
+
+1512924824 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info\coulé.c
+	"biblio.h"
+
+1512936756 source:e:\users\novaskyz\documents\info\projet info\coulé.c
+	"biblio.h"
+
+1512935555 e:\users\novaskyz\documents\info\projet info\biblio.h
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1512944633 source:e:\users\novaskyz\documents\info\projet info\deplacement.c
+	"biblio.h"
+
+1512899488 source:e:\users\novaskyz\documents\info\projet info\fonctions.c
+	"biblio.h"
+
+1512935421 source:e:\users\novaskyz\documents\info\projet info\menu.c
+	"biblio.h"
+
+1512899488 source:e:\users\novaskyz\documents\info\projet info\menup.c
+	"biblio.h"
+
+1512936792 source:e:\users\novaskyz\documents\info\projet info\tableau.c
+	"biblio.h"
+
+1512942719 source:e:\users\novaskyz\documents\info\projet info\tire.c
+	"biblio.h"
+
+1512935575 source:e:\users\novaskyz\documents\info\projet info\main.c
+	"biblio.h"
+
+1512912576 source:e:\users\novaskyz\documents\info\projet info le vrai\coulé.c
+	"biblio.h"
+
+1512912574 e:\users\novaskyz\documents\info\projet info le vrai\biblio.h
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1512912576 source:e:\users\novaskyz\documents\info\projet info le vrai\deplacement.c
+	"biblio.h"
+
+1512912576 source:e:\users\novaskyz\documents\info\projet info le vrai\fonctions.c
+	"biblio.h"
+
+1512912576 source:e:\users\novaskyz\documents\info\projet info le vrai\main.c
+	"biblio.h"
+
+1512912576 source:e:\users\novaskyz\documents\info\projet info le vrai\menu.c
+	"biblio.h"
+
+1512912576 source:e:\users\novaskyz\documents\info\projet info le vrai\menup.c
+	"biblio.h"
+
+1512912578 source:e:\users\novaskyz\documents\info\projet info le vrai\tableau.c
+	"biblio.h"
+
+1512912578 source:e:\users\novaskyz\documents\info\projet info le vrai\tire.c
+	"biblio.h"
+
+1513017730 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info le vrai\coulé.c
+	"biblio.h"
+
+1513030750 c:\users\ethane\desktop\ecole\informatique\projet\projet info le vrai\biblio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1513003244 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info le vrai\deplacement.c
+	"biblio.h"
+
+1513031272 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info le vrai\fonctions.c
+	"biblio.h"
+
+1521209943 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info le vrai\main.c
+	"biblio.h"
+
+1513033785 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info le vrai\menu.c
+	"biblio.h"
+
+1512917134 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info le vrai\menup.c
+	"biblio.h"
+
+1513021162 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info le vrai\tableau.c
+	"biblio.h"
+
+1513025955 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info le vrai\tire.c
+	"biblio.h"
+
+1512988599 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info le vrai\ia.c
+	"biblio.h"
+
+1513022702 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info le vrai\fusée.c
+	"biblio.h"
+
+1513676410 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info le vrai\restore.c
+	"biblio.h"
+
+1513032695 source:c:\users\ethane\desktop\ecole\informatique\projet\projet info le vrai\save.c
+	"biblio.h"
+
+1513014130 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\projet info le vrai\coulé.c
+	"biblio.h"
+
+1513027150 c:\users\ethane\desktop\ecole\informatique\ing 1\projet\projet info le vrai\biblio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1512999644 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\projet info le vrai\deplacement.c
+	"biblio.h"
+
+1513027672 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\projet info le vrai\fonctions.c
+	"biblio.h"
+
+1513019102 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\projet info le vrai\fusée.c
+	"biblio.h"
+
+1512984999 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\projet info le vrai\ia.c
+	"biblio.h"
+
+1541094509 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\projet info le vrai\main.c
+	"biblio.h"
+
+1513030185 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\projet info le vrai\menu.c
+	"biblio.h"
+
+1512913534 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\projet info le vrai\menup.c
+	"biblio.h"
+
+1513672810 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\projet info le vrai\restore.c
+	"biblio.h"
+
+1513029095 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\projet info le vrai\save.c
+	"biblio.h"
+
+1513017562 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\projet info le vrai\tableau.c
+	"biblio.h"
+
+1513022355 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\projet info le vrai\tire.c
+	"biblio.h"
+
